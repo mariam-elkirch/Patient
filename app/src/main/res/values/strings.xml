@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fadfadly</string>
+    <string name="Login">Login</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Loading">Loading</string>
+    <string name="Signup">Sign up</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+</resources>
